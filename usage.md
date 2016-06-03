@@ -76,7 +76,7 @@ The part between the "`---`" and the "`---`" is the
 This is where all the metadata is stored. Below the YAML frontmatter is the area (body)
 where you can write down your post's content (like the show notes and stuff).
 This strange looking
-{{% raw %}`{{ page | web_player:site }}`{% endraw %}} thingy is the Liquid filter,
+{% raw %}`{{ page | web_player:site }}`{% endraw %} thingy is the Liquid filter,
 which represents the iframe where the web player will be included later.
 
 When all this work is done you are ready to take a first look.
