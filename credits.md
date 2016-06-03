@@ -7,7 +7,7 @@ by me and/or depends on other code.
 
 Especially to be mentioned:
 
-* Arne Eilermann arne@kleinerdrei.net who started and created Octopod https://github.com/pattex/octopod
+* Arne Eilermann arne@kleinerdrei.net who started and created Octopod <https://github.com/pattex/octopod>
 * [Jekyll](http://jekyllrb.com)
 * [Twitter Bootstrap](http://twitter.github.com/bootstrap)
 * [The whole Podlove project](http://podlove.org)
