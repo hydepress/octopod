@@ -8,10 +8,9 @@ A podcast publishing extension for the static site generator Jekyll
 
 by Stefan Haslinger et al
 
+This is the official documentation for Octopod reformatted in a single-page book edition.
 
 > **Note:** The book edition is still an early release and a work-in-progess.
-
-This is the official documentation for Octopod reformatted in a single-page book edition.
 
 - Getting Started
   - [Prerequisites](prerequisites.md)
