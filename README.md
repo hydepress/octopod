@@ -26,12 +26,19 @@ This is the official documentation for Octopod reformatted in a single-page book
   - [License](license.md)
 
 
-## Sources
+## Meta
+
+### Sources
 
 See the [official documentation](https://github.com/jekyll-octopod/jekyll-octopod.github.io.source) repo.
 
 
-## Questions? Comments?
+##  What's Manuscripts?
+
+Manuscripts is a free and public domain book format that lets you write books in plain text. 
+See the [Manuscripts project](http://manuscripts.github.io) for more. 
+
+### Questions? Comments?
 
 Send them to the Jekyll Talk forum post titled
 [Octopod (Jekyll Podcasting Theme) Relauchned - Build Radio Show Sites w/ Webplayer w/ Jekyll](https://talk.jekyllrb.com/t/octopod-jekyll-podcasting-theme-relauchned-build-radio-show-sites-w-webplayer-w-jekyll/2298).
