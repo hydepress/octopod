@@ -32,8 +32,7 @@ This is the official documentation for Octopod reformatted in a single-page book
 
 See the [official documentation](https://github.com/jekyll-octopod/jekyll-octopod.github.io.source) repo.
 
-
-##  What's Manuscripts?
+###  What's Manuscripts?
 
 Manuscripts is a free and public domain book format that lets you write books in plain text. 
 See the [Manuscripts project](http://manuscripts.github.io) for more. 
