@@ -14,6 +14,18 @@ by Stefan Haslinger et al
 This is the [(official) documentation](https://github.com/jekyll-octopod/jekyll-octopod.github.io.source)
 for Octopod reformatted in a single-page book edition.
 
+- Getting Started
+  - [Prerequisites](prerequisites.md)
+  - [Installation](installation.md)
+  - [Demo](demo.md)
+  - [Usage](usage.md)
+  - [Command Line Tool](command_line.md)
+  - [Liquid Filters](liquid_filters.md)
+  - [Post Structure](post_structure.md)
+- Appendix
+  - [Contributions](contributions.md)
+  - [Credits](credits.md)
+  - [License](license.md)
 
 
 ## Sources
