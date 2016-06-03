@@ -16,4 +16,4 @@ The following assets from separate projects are packaged in this repo:
 * JQuery, version 1.11.3., <https://jquery.com>, MIT License
 * Demo Audio from Bensound, <http://www.bensound.com/royalty-free-music>, CC BY-ND 3.0 License
 
-Congrats — you have read all there is to read!
+Congrats -- you have read all there is to read!
