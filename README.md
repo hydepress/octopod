@@ -4,7 +4,7 @@ See the live version @ [`hydepress.github.io/octopod`](http://hydepress.github.i
 
 A podcast publishing extension for the static site generator Jekyll
 
-# Octopod Documentation (Reformatted Book Edition)
+# Octopod Documentation (Manuscripts Book Edition)
 
 by Stefan Haslinger et al
 
