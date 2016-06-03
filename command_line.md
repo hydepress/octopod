@@ -34,7 +34,7 @@ $ octopod s[erver]
 # Starts the server
 ```
 
-Configuration is read from '<source>/_config.yml' but can be overridden.
+Configuration is read from `<source>/_config.yml` but can be overridden.
 Available options are documented in `_config.yml`.
 In case, you deleted some of the options, a full reference can be found in `_config.yml.sample`.
 
