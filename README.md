@@ -19,3 +19,10 @@ for Octopod reformatted in a single-page book edition.
 ## Sources
 
 See the [(official) documentation](https://github.com/jekyll-octopod/jekyll-octopod.github.io.source) repo.
+
+
+## Questions? Comments?
+
+Send them to the Jekyll Talk forum post titled
+[Octopod (Jekyll Podcasting Theme) Relauchned - Build Radio Show Sites w/ Webplayer w/ Jekyll](https://talk.jekyllrb.com/t/octopod-jekyll-podcasting-theme-relauchned-build-radio-show-sites-w-webplayer-w-jekyll/2298).
+Thanks.
