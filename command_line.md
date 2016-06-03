@@ -39,4 +39,4 @@ Available options are documented in `_config.yml`.
 In case, you deleted some of the options, a full reference can be found in `_config.yml.sample`.
 
 All derived Jekyll command line tasks can be found in Jekyll's [Usage Documentation](http://jekyllrb.com/docs/usage/), 
-from which the octopod command inherits most of its functionality)
+from which the octopod command inherits most of its functionality.
