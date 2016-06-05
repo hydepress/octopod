@@ -1,4 +1,4 @@
-See the live version @ [`hydepress.github.io/octopod`](http://hydepress.github.io/octopod) 
+See the live version @ [`hydepress.github.io/octopod`](http://hydepress.github.io/octopod)
 
 ---
 
@@ -13,17 +13,17 @@ This is the official documentation for Octopod reformatted in a single-page book
 > **Note:** The book edition is still an early release and a work-in-progess.
 
 - Getting Started
-  - [Prerequisites](prerequisites.md)
-  - [Installation](installation.md)
-  - [Demo](demo.md)
-  - [Usage](usage.md)
-  - [Command Line Tool](command_line.md)
-  - [Liquid Filters](liquid_filters.md)
-  - [Post Structure](post_structure.md)
+  - [Prerequisites](01__Prerequisites.md)
+  - [Installation](02__Installation.md)
+  - [Demo](03__Demo.md)
+  - [Usage](04__Usage.md)
+  - [Command Line Tool](05__Command_Line.md)
+  - [Liquid Filters](06__Liquid_Filters.md)
+  - [Post Structure](07__Post_Structure.md)
 - Appendix
-  - [Contributions](contributions.md)
-  - [Credits](credits.md)
-  - [License](license.md)
+  - [Contributions](A1__Contributions.md)
+  - [Credits](A2__Credits.md)
+  - [License](A3__License.md)
 
 
 ## Meta
@@ -34,8 +34,8 @@ See the [official documentation](https://github.com/jekyll-octopod/jekyll-octopo
 
 ###  What's Manuscripts?
 
-Manuscripts is a free and public domain book format that lets you write books in plain text. 
-See the [Manuscripts project](http://manuscripts.github.io) for more. 
+Manuscripts is a free and public domain book format that lets you write books in plain text.
+See the [Manuscripts project](http://manuscripts.github.io) for more.
 
 ### Questions? Comments?
 
